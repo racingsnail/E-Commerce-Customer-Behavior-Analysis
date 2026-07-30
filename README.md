@@ -24,14 +24,14 @@ The average ratings given by new and returning customers are nearly identical (3
 Based on average ratings, there is no obvious dependency between delivery time and customer satisfaction. Statistical correlation testing is applied for verification.
 ## Visualizations
 ### 1. Orders by Product Category
-!(images/average_order_value.png)
+![Average order value](images/average_order_value.png)
 The number of orders across product categories is distributed fairly evenly. The highest number of orders falls into the **Sports** category, though differences between categories remain small.
 ### 2. Average Order Value by Category
-!(images/delivery_rating.png)
+![Product category](images/product_category.png)
 The highest average order value is observed in the **Electronics** category (around 3,000 currency units), followed by **Home & Garden** and **Sports**. The lowest average check belongs to **Books**, **Food**, and **Beauty**.
 > This indicates that products across different categories vary significantly in price. While Electronics is the most lucrative category per single order, evaluating its overall effectiveness requires considering additional metrics such as repeat purchase frequency.
 ### 3. Average Customer Rating by Delivery Time
-!(images/product_category.png)
+![Delivery rating](images/delivery_rating.png)
 The chart illustrates the average customer rating depending on the delivery time in days. This visualization helps to track whether longer delivery times negatively impact customer satisfaction.
 ## Hypothesis Testing
 ### Hypothesis 1
