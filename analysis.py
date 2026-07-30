@@ -9,7 +9,6 @@ from scipy import stats
 # Load the dataset
 df = pd.read_csv("ecommerce_customer_behavior_dataset.csv")
 
-
 print("=== DATA OVERVIEW ===")
 print(f"Dataset shape: {df.shape[0]} rows, {df.shape[1]} columns")
 
